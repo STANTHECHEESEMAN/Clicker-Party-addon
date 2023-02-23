@@ -26,7 +26,7 @@ Game.registerMod("partybutton", {
             CCSE.postLoadHooks.push(launch());
         }
         function lol() {
-            var toggled = false;
+            var toggled = true;
 
             if (toggled == true) {
                 toggled = false;
