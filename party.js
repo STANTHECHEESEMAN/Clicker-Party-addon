@@ -30,7 +30,7 @@ Game.registerMod("partybutton", {
 
             if (toggled == true) {
                 toggled = false;
-                Game.PARTY = true;
+                Game.PARTY = false;
 
             }
             else if (toggled == false) {
