@@ -1,4 +1,4 @@
-Game.registerMod("cheesebutton", {
+Game.registerMod("partybutton", {
     init: function () {
         Game.Notify(`Party Button loading!`, '', [49, 4]);
         //this string needs to match the ID provided in your info.txt
